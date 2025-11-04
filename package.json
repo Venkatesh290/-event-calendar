@@ -1,6 +1,5 @@
 {
   "name": "event-calendar",
-  "homepage": "https://venkatesh290.github.io/-event-calendar",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
